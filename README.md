@@ -2,7 +2,7 @@
 
 A computer science student exploring the creativites of tech and working as a software engineer. 
 
-- ⚡️Technologies I enjoy working with: React, React Native, Java Spring
+- ⚡️Technologies I enjoy working with: Python, React, React Native, Java Spring
 - 🌱 Hobbies & Interests: basketball, painting, and exploring new cities
 - 📫 Connect with me below!
 ---
